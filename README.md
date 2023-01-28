@@ -1,4 +1,5 @@
 Name: Ramyond Rogers
 Major: Computer Science & Information Security
-Role: Cybersecurity Analyst
-Intrest: SOC , DFIR
+Minor: Cybercrime
+Role: Cybersecurity Analyst Intern / Student
+Intrest: SOC & DFIR
